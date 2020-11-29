@@ -1,4 +1,4 @@
-Video Demo: https://youtu.be/7KSG-KsRqcc
+Video Demo: https://youtu.be/7KSG-KsRqcc 
 The project is incomplete, so the arm is missing the electrical magnet to pick up and set down metal checkers. The project is built using ESP-32 Thing, three SG90 servos, a 6V battery pack (four AA batteries), 3D-printed parts for the arm, and some wooden parts for the board and arm support.
 
 Challenges and Design:
